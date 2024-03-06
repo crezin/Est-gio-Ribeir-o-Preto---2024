@@ -1,0 +1,3 @@
+C:/Users/cremi/OneDrive/Documentos/Estágio Ribeirão Preto/cmake-build-debug/CMakeFiles/estagio_aleatorio.dir
+C:/Users/cremi/OneDrive/Documentos/Estágio Ribeirão Preto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cremi/OneDrive/Documentos/Estágio Ribeirão Preto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
